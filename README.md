@@ -1,2 +1,2 @@
-# MicroService
-Helping project for Micro Service
+# Micro Service
+Helping project for Micro Service Implementation
